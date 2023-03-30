@@ -1,0 +1,15 @@
+D:\Software Dev\C# Scripts\TestApp1\bin\Debug\net7.0\TestApp1.exe
+D:\Software Dev\C# Scripts\TestApp1\bin\Debug\net7.0\TestApp1.deps.json
+D:\Software Dev\C# Scripts\TestApp1\bin\Debug\net7.0\TestApp1.runtimeconfig.json
+D:\Software Dev\C# Scripts\TestApp1\bin\Debug\net7.0\TestApp1.dll
+D:\Software Dev\C# Scripts\TestApp1\bin\Debug\net7.0\TestApp1.pdb
+D:\Software Dev\C# Scripts\TestApp1\obj\Debug\net7.0\TestApp1.csproj.AssemblyReference.cache
+D:\Software Dev\C# Scripts\TestApp1\obj\Debug\net7.0\TestApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software Dev\C# Scripts\TestApp1\obj\Debug\net7.0\TestApp1.AssemblyInfoInputs.cache
+D:\Software Dev\C# Scripts\TestApp1\obj\Debug\net7.0\TestApp1.AssemblyInfo.cs
+D:\Software Dev\C# Scripts\TestApp1\obj\Debug\net7.0\TestApp1.csproj.CoreCompileInputs.cache
+D:\Software Dev\C# Scripts\TestApp1\obj\Debug\net7.0\TestApp1.dll
+D:\Software Dev\C# Scripts\TestApp1\obj\Debug\net7.0\refint\TestApp1.dll
+D:\Software Dev\C# Scripts\TestApp1\obj\Debug\net7.0\TestApp1.pdb
+D:\Software Dev\C# Scripts\TestApp1\obj\Debug\net7.0\TestApp1.genruntimeconfig.cache
+D:\Software Dev\C# Scripts\TestApp1\obj\Debug\net7.0\ref\TestApp1.dll

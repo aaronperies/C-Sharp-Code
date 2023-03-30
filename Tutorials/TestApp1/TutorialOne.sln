@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp1", "TestApp1.csproj", "{1A5F2213-AF5E-47FA-9409-01C0621130DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial Two - Variables_Constants", "..\Program\Tutorial Two - Variables_Constants\Tutorial Two - Variables_Constants.csproj", "{00DDE57F-B26A-4CE5-8CE4-CE8C4BB36D38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A5F2213-AF5E-47FA-9409-01C0621130DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A5F2213-AF5E-47FA-9409-01C0621130DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A5F2213-AF5E-47FA-9409-01C0621130DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A5F2213-AF5E-47FA-9409-01C0621130DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00DDE57F-B26A-4CE5-8CE4-CE8C4BB36D38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00DDE57F-B26A-4CE5-8CE4-CE8C4BB36D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00DDE57F-B26A-4CE5-8CE4-CE8C4BB36D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00DDE57F-B26A-4CE5-8CE4-CE8C4BB36D38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
