@@ -1,0 +1,15 @@
+D:\Software Dev\C# Scripts\Tutorial Two - Variables_Constants\bin\Debug\net7.0\Tutorial Two - Variables_Constants.exe
+D:\Software Dev\C# Scripts\Tutorial Two - Variables_Constants\bin\Debug\net7.0\Tutorial Two - Variables_Constants.deps.json
+D:\Software Dev\C# Scripts\Tutorial Two - Variables_Constants\bin\Debug\net7.0\Tutorial Two - Variables_Constants.runtimeconfig.json
+D:\Software Dev\C# Scripts\Tutorial Two - Variables_Constants\bin\Debug\net7.0\Tutorial Two - Variables_Constants.dll
+D:\Software Dev\C# Scripts\Tutorial Two - Variables_Constants\bin\Debug\net7.0\Tutorial Two - Variables_Constants.pdb
+D:\Software Dev\C# Scripts\Tutorial Two - Variables_Constants\obj\Debug\net7.0\Tutorial Two - Variables_Constants.csproj.AssemblyReference.cache
+D:\Software Dev\C# Scripts\Tutorial Two - Variables_Constants\obj\Debug\net7.0\Tutorial Two - Variables_Constants.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software Dev\C# Scripts\Tutorial Two - Variables_Constants\obj\Debug\net7.0\Tutorial Two - Variables_Constants.AssemblyInfoInputs.cache
+D:\Software Dev\C# Scripts\Tutorial Two - Variables_Constants\obj\Debug\net7.0\Tutorial Two - Variables_Constants.AssemblyInfo.cs
+D:\Software Dev\C# Scripts\Tutorial Two - Variables_Constants\obj\Debug\net7.0\Tutorial Two - Variables_Constants.csproj.CoreCompileInputs.cache
+D:\Software Dev\C# Scripts\Tutorial Two - Variables_Constants\obj\Debug\net7.0\Tutorial Two - Variables_Constants.dll
+D:\Software Dev\C# Scripts\Tutorial Two - Variables_Constants\obj\Debug\net7.0\refint\Tutorial Two - Variables_Constants.dll
+D:\Software Dev\C# Scripts\Tutorial Two - Variables_Constants\obj\Debug\net7.0\Tutorial Two - Variables_Constants.pdb
+D:\Software Dev\C# Scripts\Tutorial Two - Variables_Constants\obj\Debug\net7.0\Tutorial Two - Variables_Constants.genruntimeconfig.cache
+D:\Software Dev\C# Scripts\Tutorial Two - Variables_Constants\obj\Debug\net7.0\ref\Tutorial Two - Variables_Constants.dll
