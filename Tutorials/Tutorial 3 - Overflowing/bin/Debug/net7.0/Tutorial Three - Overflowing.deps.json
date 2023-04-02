@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Tutorial Three - Overflowing/1.0.0": {
+        "runtime": {
+          "Tutorial Three - Overflowing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tutorial Three - Overflowing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
