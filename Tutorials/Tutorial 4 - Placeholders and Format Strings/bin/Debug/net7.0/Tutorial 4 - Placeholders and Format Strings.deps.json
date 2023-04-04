@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Tutorial 4 - Placeholders and Format Strings/1.0.0": {
+        "runtime": {
+          "Tutorial 4 - Placeholders and Format Strings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tutorial 4 - Placeholders and Format Strings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Software Dev\C# Scripts\Tutorial 4 - Placeholders and Format Strings\bin\Debug\net7.0\Tutorial 4 - Placeholders and Format Strings.exe
+D:\Software Dev\C# Scripts\Tutorial 4 - Placeholders and Format Strings\bin\Debug\net7.0\Tutorial 4 - Placeholders and Format Strings.deps.json
+D:\Software Dev\C# Scripts\Tutorial 4 - Placeholders and Format Strings\bin\Debug\net7.0\Tutorial 4 - Placeholders and Format Strings.runtimeconfig.json
+D:\Software Dev\C# Scripts\Tutorial 4 - Placeholders and Format Strings\bin\Debug\net7.0\Tutorial 4 - Placeholders and Format Strings.dll
+D:\Software Dev\C# Scripts\Tutorial 4 - Placeholders and Format Strings\bin\Debug\net7.0\Tutorial 4 - Placeholders and Format Strings.pdb
+D:\Software Dev\C# Scripts\Tutorial 4 - Placeholders and Format Strings\obj\Debug\net7.0\Tutorial 4 - Placeholders and Format Strings.csproj.AssemblyReference.cache
+D:\Software Dev\C# Scripts\Tutorial 4 - Placeholders and Format Strings\obj\Debug\net7.0\Tutorial 4 - Placeholders and Format Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software Dev\C# Scripts\Tutorial 4 - Placeholders and Format Strings\obj\Debug\net7.0\Tutorial 4 - Placeholders and Format Strings.AssemblyInfoInputs.cache
+D:\Software Dev\C# Scripts\Tutorial 4 - Placeholders and Format Strings\obj\Debug\net7.0\Tutorial 4 - Placeholders and Format Strings.AssemblyInfo.cs
+D:\Software Dev\C# Scripts\Tutorial 4 - Placeholders and Format Strings\obj\Debug\net7.0\Tutorial 4 - Placeholders and Format Strings.csproj.CoreCompileInputs.cache
+D:\Software Dev\C# Scripts\Tutorial 4 - Placeholders and Format Strings\obj\Debug\net7.0\Tutorial 4 - Placeholders and Format Strings.dll
+D:\Software Dev\C# Scripts\Tutorial 4 - Placeholders and Format Strings\obj\Debug\net7.0\refint\Tutorial 4 - Placeholders and Format Strings.dll
+D:\Software Dev\C# Scripts\Tutorial 4 - Placeholders and Format Strings\obj\Debug\net7.0\Tutorial 4 - Placeholders and Format Strings.pdb
+D:\Software Dev\C# Scripts\Tutorial 4 - Placeholders and Format Strings\obj\Debug\net7.0\Tutorial 4 - Placeholders and Format Strings.genruntimeconfig.cache
+D:\Software Dev\C# Scripts\Tutorial 4 - Placeholders and Format Strings\obj\Debug\net7.0\ref\Tutorial 4 - Placeholders and Format Strings.dll
