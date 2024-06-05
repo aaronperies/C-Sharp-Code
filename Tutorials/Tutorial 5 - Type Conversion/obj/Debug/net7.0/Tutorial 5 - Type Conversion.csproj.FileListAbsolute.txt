@@ -1,0 +1,15 @@
+D:\Software Dev\C# Scripts\Tutorial 5 - Type Conversion\bin\Debug\net7.0\Tutorial 5 - Type Conversion.exe
+D:\Software Dev\C# Scripts\Tutorial 5 - Type Conversion\bin\Debug\net7.0\Tutorial 5 - Type Conversion.deps.json
+D:\Software Dev\C# Scripts\Tutorial 5 - Type Conversion\bin\Debug\net7.0\Tutorial 5 - Type Conversion.runtimeconfig.json
+D:\Software Dev\C# Scripts\Tutorial 5 - Type Conversion\bin\Debug\net7.0\Tutorial 5 - Type Conversion.dll
+D:\Software Dev\C# Scripts\Tutorial 5 - Type Conversion\bin\Debug\net7.0\Tutorial 5 - Type Conversion.pdb
+D:\Software Dev\C# Scripts\Tutorial 5 - Type Conversion\obj\Debug\net7.0\Tutorial 5 - Type Conversion.csproj.AssemblyReference.cache
+D:\Software Dev\C# Scripts\Tutorial 5 - Type Conversion\obj\Debug\net7.0\Tutorial 5 - Type Conversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software Dev\C# Scripts\Tutorial 5 - Type Conversion\obj\Debug\net7.0\Tutorial 5 - Type Conversion.AssemblyInfoInputs.cache
+D:\Software Dev\C# Scripts\Tutorial 5 - Type Conversion\obj\Debug\net7.0\Tutorial 5 - Type Conversion.AssemblyInfo.cs
+D:\Software Dev\C# Scripts\Tutorial 5 - Type Conversion\obj\Debug\net7.0\Tutorial 5 - Type Conversion.csproj.CoreCompileInputs.cache
+D:\Software Dev\C# Scripts\Tutorial 5 - Type Conversion\obj\Debug\net7.0\Tutorial 5 - Type Conversion.dll
+D:\Software Dev\C# Scripts\Tutorial 5 - Type Conversion\obj\Debug\net7.0\refint\Tutorial 5 - Type Conversion.dll
+D:\Software Dev\C# Scripts\Tutorial 5 - Type Conversion\obj\Debug\net7.0\Tutorial 5 - Type Conversion.pdb
+D:\Software Dev\C# Scripts\Tutorial 5 - Type Conversion\obj\Debug\net7.0\Tutorial 5 - Type Conversion.genruntimeconfig.cache
+D:\Software Dev\C# Scripts\Tutorial 5 - Type Conversion\obj\Debug\net7.0\ref\Tutorial 5 - Type Conversion.dll
