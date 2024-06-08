@@ -1,0 +1,15 @@
+D:\Software Dev\C# Scripts\Tutorial 6 - Try Catch\bin\Debug\net7.0\Tutorial 6 - Try Catch.exe
+D:\Software Dev\C# Scripts\Tutorial 6 - Try Catch\bin\Debug\net7.0\Tutorial 6 - Try Catch.deps.json
+D:\Software Dev\C# Scripts\Tutorial 6 - Try Catch\bin\Debug\net7.0\Tutorial 6 - Try Catch.runtimeconfig.json
+D:\Software Dev\C# Scripts\Tutorial 6 - Try Catch\bin\Debug\net7.0\Tutorial 6 - Try Catch.dll
+D:\Software Dev\C# Scripts\Tutorial 6 - Try Catch\bin\Debug\net7.0\Tutorial 6 - Try Catch.pdb
+D:\Software Dev\C# Scripts\Tutorial 6 - Try Catch\obj\Debug\net7.0\Tutorial 6 - Try Catch.csproj.AssemblyReference.cache
+D:\Software Dev\C# Scripts\Tutorial 6 - Try Catch\obj\Debug\net7.0\Tutorial 6 - Try Catch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software Dev\C# Scripts\Tutorial 6 - Try Catch\obj\Debug\net7.0\Tutorial 6 - Try Catch.AssemblyInfoInputs.cache
+D:\Software Dev\C# Scripts\Tutorial 6 - Try Catch\obj\Debug\net7.0\Tutorial 6 - Try Catch.AssemblyInfo.cs
+D:\Software Dev\C# Scripts\Tutorial 6 - Try Catch\obj\Debug\net7.0\Tutorial 6 - Try Catch.csproj.CoreCompileInputs.cache
+D:\Software Dev\C# Scripts\Tutorial 6 - Try Catch\obj\Debug\net7.0\Tutorial 6 - Try Catch.dll
+D:\Software Dev\C# Scripts\Tutorial 6 - Try Catch\obj\Debug\net7.0\refint\Tutorial 6 - Try Catch.dll
+D:\Software Dev\C# Scripts\Tutorial 6 - Try Catch\obj\Debug\net7.0\Tutorial 6 - Try Catch.pdb
+D:\Software Dev\C# Scripts\Tutorial 6 - Try Catch\obj\Debug\net7.0\Tutorial 6 - Try Catch.genruntimeconfig.cache
+D:\Software Dev\C# Scripts\Tutorial 6 - Try Catch\obj\Debug\net7.0\ref\Tutorial 6 - Try Catch.dll
